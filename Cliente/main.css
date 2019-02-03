@@ -1,0 +1,19 @@
+.localTime {
+  position: absolute;
+  left: 400px;
+  top: 50px;
+}
+.serverTime {
+  position: absolute;
+  left: 400px;
+  top: 150px;
+}
+.serverTime, .localTime{
+  text-align: center;
+  position:  fixed;
+  font-size: auto;
+  color: #cb4335 ;
+  width: 25%;
+  padding: 30px;
+  bottom: 45%;
+}
